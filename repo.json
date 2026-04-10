@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "Bryer",
+    "Name": "EZSheets",
+    "InternalName": "EZSheets",
+    "AssemblyVersion": "1.0.0",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://github.com/seventity7/EZSheets",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Punchline": "Cloud-synced spreadsheets for Venues and normal daily-basis.",
+    "Description": "Collaborative spreadsheet. Create sheets, share a code and sync in real-time with other users.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/seventity7/EZSheets/releases/download/v1.0.0/EZSheets.zip",
+    "DownloadLinkTesting": null,
+    "DownloadLinkUpdate": "https://github.com/seventity7/EZSheets/releases/download/v1.0.0/EZSheets.zip",
+    "LastUpdate": "1743897600"
+  }
+]

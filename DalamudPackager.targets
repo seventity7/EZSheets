@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <Target Name="PackagePlugin" AfterTargets="Build">
+    <DalamudPackager
+      ProjectDir="$(ProjectDir)"
+      OutputPath="$(OutputPath)"
+      AssemblyName="EZSheets"
+      ManifestType="csproj"
+      Name="EZSheets"
+      Author="Bryer"
+      Punchline="Cloud-synced spreadsheets for Venues and normal daily-basis."
+      Description="Collaborative spreadsheet. Create sheets, share a code and sync in real-time with other users."
+      RepoUrl="https://github.com/seventity7/EZSheets"
+      ApplicableVersion="any"
+      DalamudApiLevel="14"
+      IconUrl="https://raw.githubusercontent.com/seventity7/EZSheets.png"
+      Tags="ffxiv;plugin;venues;sheets;spreadsheet;track;sync;realtime;management" />
+  </Target>
+</Project>

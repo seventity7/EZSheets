@@ -1,0 +1,5 @@
+[functions.sheetsync-api]
+verify_jwt = false
+
+[functions.EZSheets-api]
+verify_jwt = false

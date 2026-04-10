@@ -1,0 +1,21 @@
+{
+  "Author": "Bryer",
+  "Name": "EZSheets",
+  "Punchline": "Cloud-synced spreadsheets for Venues and normal daily-basis.",
+  "Description": "Collaborative spreadsheet. Create sheets, share a code and sync in real-time with other users.",
+  "RepoUrl": "https://github.com/seventity7/EZSheets",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "spreadsheet",
+    "collaboration",
+    "supabase",
+    "sheet",
+    "tools",
+    "sheets",
+    "spradsheet",
+    "track",
+    "sync",
+    "realtime",
+    "management"
+  ]
+}

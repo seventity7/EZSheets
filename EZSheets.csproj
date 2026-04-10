@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/14.0.2">
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <IsPackable>false</IsPackable>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <PackageProjectUrl>https://github.com/seventity7/EZSheets</PackageProjectUrl>
+    <Description>Collaborative spreadsheet. Create sheets, share a code and sync in real-time with other users.</Description>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+<PropertyGroup>
+  <IconUrl>https://raw.githubusercontent.com/seventity7/EZSheets/main/ezsheets.png</IconUrl>
+</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.104.0" />
+  </ItemGroup>
+</Project>
