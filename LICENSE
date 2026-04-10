@@ -1,0 +1,111 @@
+# EZSheets License and Terms of Use
+
+Copyright (c) 2026 EZSheets. All rights reserved.
+
+## 1. Acceptance of Terms
+
+By downloading, installing, accessing, or using EZSheets (the "Plugin"), you agree to be bound by these License and Terms of Use (the "Terms"). If you do not agree to these Terms, you must not use, copy, distribute, or access the Plugin.
+
+## 2. Limited License
+
+Subject to your compliance with these Terms, the author grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the Plugin solely for lawful personal or internal community use.
+
+This license does not transfer any ownership rights. The Plugin is licensed, not sold.
+
+## 3. Ownership and Intellectual Property
+
+All rights, title, and interest in and to the Plugin, including without limitation its source code, compiled files, interface design, branding, documentation, images, text, data structures, features, and updates, remain the exclusive property of the author and/or applicable rights holders.
+
+Except as expressly permitted by these Terms, no part of the Plugin may be copied, reproduced, modified, republished, uploaded, posted, transmitted, translated, adapted, reverse engineered, decompiled, disassembled, redistributed, relicensed, leased, sold, or otherwise exploited.
+
+## 4. Prohibited Conduct
+
+You may not, directly or indirectly:
+
+1. sell, resell, sublicense, rent, lease, or commercially exploit the Plugin or any modified or unmodified version of it;
+2. edit, alter, fork, repackage, or redistribute the Plugin without prior written authorization from the author;
+3. remove, obscure, or alter copyright notices, branding, authorship notices, disclaimers, or license text;
+4. use the Plugin in any unlawful, abusive, fraudulent, malicious, or deceptive manner;
+5. attempt to bypass, disable, interfere with, or undermine any technical, security, access-control, or integrity-related mechanism associated with the Plugin or its related services;
+6. falsely represent modified, mirrored, or unauthorized copies as official releases of the Plugin;
+7. use the Plugin to harass, disrupt, impersonate, surveil, or harm other users or communities.
+
+## 5. No Unauthorized Distribution
+
+Only the author, or parties expressly authorized in writing by the author, may publish, mirror, distribute, or provide downloads of the Plugin as an official or authorized version.
+
+Unauthorized uploads, mirrors, edited builds, repacks, or redistributed copies are strictly prohibited.
+
+## 6. User Data and Privacy Statement
+
+EZSheets is designed to avoid collecting unrelated personal information or device telemetry.
+
+To be clear:
+
+- the Plugin is **not intended to collect** hardware identifiers, operating system inventory, local file contents, browser history, installed software lists, keyboard logs, screenshots, microphone input, camera input, or unrelated computer information;
+- the Plugin is **not intended to collect** personal information beyond what is reasonably necessary to provide its core functionality;
+- the Plugin does **not sell** user data to advertisers, data brokers, or other third parties.
+
+However, because the Plugin may provide optional cloud-connected features, account-linked features, collaborative sheets, or chat-related features, limited operational data may be processed when necessary for the Plugin to function. Such data may include, for example:
+
+- account identifiers required for authentication;
+- user-provided sheet content, permissions, snapshots, or chat messages;
+- basic technical request data necessary to establish and maintain service functionality.
+
+This operational data is processed solely for the purpose of providing the Plugin's intended features and is not collected for unrelated profiling, resale, or advertising purposes.
+
+## 7. No Collection of Computer Information
+
+The Plugin does not intentionally collect or monitor unrelated information about a user's computer, hardware configuration, personal files, external applications, or local system activity, except to the limited extent technically required for the Plugin to run within its intended environment.
+
+## 8. Third-Party Services
+
+The Plugin may interact with third-party services, platforms, authentication providers, or infrastructure. Use of such services may also be subject to their own terms, policies, and privacy notices. The author is not responsible for third-party systems, outages, policy changes, account actions, or data handling practices outside the Plugin itself.
+
+## 9. Updates and Changes
+
+The author may, at any time and without prior notice:
+
+- update, patch, suspend, restrict, replace, or discontinue the Plugin;
+- add, remove, or change features;
+- modify these Terms.
+
+Continued use of the Plugin after any update or change constitutes acceptance of the revised Terms.
+
+## 10. Termination
+
+This license automatically terminates if you violate any provision of these Terms. Upon termination, you must immediately cease all use of the Plugin and delete all copies in your possession or control.
+
+The author also reserves the right to revoke access to the Plugin, related services, or updates at any time, with or without cause.
+
+## 11. Disclaimer of Warranties
+
+THE PLUGIN IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, RELIABILITY, AVAILABILITY, SECURITY, OR ERROR-FREE OPERATION.
+
+THE AUTHOR DOES NOT WARRANT THAT THE PLUGIN WILL BE UNINTERRUPTED, BUG-FREE, COMPATIBLE WITH ALL ENVIRONMENTS, OR FREE FROM LOSS, CORRUPTION, OR SERVICE INTERRUPTIONS.
+
+## 12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, ACCOUNT ACCESS, CONTENT, PROFITS, GOODWILL, BUSINESS OPPORTUNITY, OR GAME ACCESS, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE PLUGIN, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## 13. Indemnity
+
+You agree to defend, indemnify, and hold harmless the author from and against any claims, liabilities, damages, losses, costs, and expenses, including reasonable legal fees, arising from or related to your misuse of the Plugin, your violation of these Terms, or your violation of any law or third-party rights.
+
+## 14. No Waiver
+
+Failure by the author to enforce any provision of these Terms shall not constitute a waiver of any right or provision.
+
+## 15. Severability
+
+If any provision of these Terms is held to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.
+
+## 16. Governing Interpretation
+
+These Terms shall be interpreted in a fair and commercially reasonable manner consistent with protecting the author, the Plugin, and its users.
+
+## 17. Contact and Permissions
+
+Requests for authorization to edit, redistribute, mirror, publish, or otherwise use the Plugin beyond the scope of this license must be made directly to the author.
+
+No permission is granted unless it is provided expressly and in writing.
