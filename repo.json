@@ -3,7 +3,7 @@
     "Author": "Bryer",
     "Name": "EZSheets",
     "InternalName": "EZSheets",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.1",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/seventity7/EZSheets",
     "ApplicableVersion": "any",
@@ -12,9 +12,10 @@
     "Description": "Collaborative spreadsheet. Create sheets, share a code and sync in real-time with other users.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/seventity7/EZSheets/releases/download/v1.0.0/EZSheets.zip",
+    "DownloadLinkInstall": "https://github.com/seventity7/EZSheets/releases/latest/download/EZSheets.zip",
     "DownloadLinkTesting": null,
-    "DownloadLinkUpdate": "https://github.com/seventity7/EZSheets/releases/download/v1.0.0/EZSheets.zip",
-    "LastUpdate": "1743897600"
+    "DownloadLinkUpdate": "https://github.com/seventity7/EZSheets/releases/latest/download/EZSheets.zip",
+    "LastUpdate": "1743897600",
+    "IconURL": "https://raw.githubusercontent.com/seventity7/EZSheets/main/ezsheets.png"
   }
 ]

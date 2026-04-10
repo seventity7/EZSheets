@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/14.0.2">
   <PropertyGroup>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -14,7 +14,7 @@
   </PropertyGroup>
 
 <PropertyGroup>
-  <IconUrl>https://raw.githubusercontent.com/seventity7/EZSheets/main/ezsheets.png</IconUrl>
+  <IconUrl>"https://raw.githubusercontent.com/seventity7/EZSheets/main/ezsheets.png"</IconUrl>
 </PropertyGroup>
 
   <ItemGroup>

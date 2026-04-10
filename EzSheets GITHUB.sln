@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZSheets", "EZSheets.csproj", "{0D225D15-FA6D-105F-F934-82F5BB38AD12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D225D15-FA6D-105F-F934-82F5BB38AD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D225D15-FA6D-105F-F934-82F5BB38AD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D225D15-FA6D-105F-F934-82F5BB38AD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D225D15-FA6D-105F-F934-82F5BB38AD12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD75DB18-6F35-4643-A59F-C84F3895F16E}
+	EndGlobalSection
+EndGlobal
